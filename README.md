@@ -1,0 +1,2 @@
+# Stock_Trend_Prediction_with_Sentiment_Analysis
+基于LSTM进行金融文本情感分析 基于TCN结合股票历史数据进行未来趋势预测 基于Vue3实现数据可视化展示
